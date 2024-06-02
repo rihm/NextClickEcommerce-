@@ -7,7 +7,7 @@ lnaguage - kotlin
 
 archtechure - mvvm 
 
-jetpack component - room, data binding 
+jetpack component - room, data binding, Live data 
 
 
 
